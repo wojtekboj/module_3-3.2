@@ -12,7 +12,6 @@ Building grid
 Project is created with:
 * HTML5
 * CSS3
-* Fonts - Bootstrap
 
 ## Tools
 The following tools were used
